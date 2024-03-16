@@ -1,0 +1,33 @@
+
+#nav{
+display: flex;
+justify-content: center;
+gap: 30px;
+
+}
+
+#contact{
+    border-radius: 60px;
+    color: red;
+    border: solid red;
+}
+
+#LOGISTIC{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+
+#learn{
+    border-radius: 60px;
+    color: white;
+    background-color: rgb(90, 12, 12);
+}
+
+#lorem{
+    text-decoration: none;
+}
+#darkblue{
+    color: midnightblue;
+    font-size: 40px;
+}
